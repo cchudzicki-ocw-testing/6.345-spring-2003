@@ -28,7 +28,7 @@ During the last quarter of the course, assignments will end, and students will w
 Schedule
 --------
 
-A detailed {{< resource_link c84407e7-146e-c920-ca78-0ed7eb36a579 "outline" >}} of the class lectures and assignments is also available.
+A detailed {{% resource_link c84407e7-146e-c920-ca78-0ed7eb36a579 "outline" %}} of the class lectures and assignments is also available.
 
 Staff
 -----
